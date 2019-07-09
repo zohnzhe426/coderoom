@@ -1,0 +1,15 @@
+C:\Users\wz\source\repos\open ifc\open ifc\bin\Debug\open ifc.exe.config
+C:\Users\wz\source\repos\open ifc\open ifc\bin\Debug\open ifc.exe
+C:\Users\wz\source\repos\open ifc\open ifc\bin\Debug\open ifc.pdb
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.csprojAssemblyReference.cache
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\MainWindow.g.cs
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\App.g.cs
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc_MarkupCompile.cache
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc_MarkupCompile.lref
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\MainWindow.baml
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.g.resources
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open_ifc.Properties.Resources.resources
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.csproj.GenerateResource.cache
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.csproj.CoreCompileInputs.cache
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.exe
+C:\Users\wz\source\repos\open ifc\open ifc\obj\Debug\open ifc.pdb
